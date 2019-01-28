@@ -7,4 +7,4 @@
 * Add into 'basic-operations'  log system
 * Add into 'basic-operations'  some junit test
 * Integrate 'basic-operations' into 'rest-webapp' and expose one operation by rest call
-* Create anc commit final version into a branch
+* Create branc and commit final version into this branch
